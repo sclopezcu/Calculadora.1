@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.operacion{
+    width: 100px;
+    min-width: fit-content;
+    position: relative;   
+}
+.resultado{
+    box-align: center;
+}
